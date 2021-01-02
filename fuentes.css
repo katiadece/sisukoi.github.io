@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css?family=Dancing+Script");
+*{
+  margin: 0;
+  padding: 0;
+}
+h1{ 
+font-family: 'Dancing Script'; 
+font-size: 40px; 
+font-style: normal; 
+font-variant: normal; 
+font-weight: 400; line-height: 20px; 
+} 
+
+h2{
+font-family: 'Montserrat'; 
+font-size: 30px; 
+font-style: normal; 
+font-variant: normal; 
+font-weight: 700; line-height: 20px; 
+} 
+
+h3{
+font-family: 'Montserrat'; 
+font-size: 12px; 
+font-style: normal; 
+font-variant: normal; 
+font-weight: 400; line-height: 20px; 
+}
+
+h4{
+font-family: 'Dancing Script'; 
+font-size: 22px; 
+font-style: normal; 
+font-variant: normal; 
+font-weight: 400; line-height: 20px; 
+}
+
+
+h5{
+font-family: 'Montserrat'; 
+font-size: 25px; 
+font-style: normal; 
+font-variant: normal; 
+font-weight: 2; line-height: 32px; 
+word-spacing: 3px;
+text-decoration: none;
+text-weight: 80%;
+}
+
+
+h6{
+font-family: 'Calibri'; 
+font-size: 17px; 
+font-style: normal; 
+font-variant: normal; 
+font-weight: 30; line-height: 25px; 
+letter-spacing: 1;
+word-spacing: 1px;
+}
+
+h7{
+font-family: 'Calibri'; 
+font-size: 17px; 
+font-style: normal; 
+font-variant: normal; 
+font-weight: 30; line-height: 25px; 
+letter-spacing: 1;
+word-spacing: 1px;
+}
+
+p{
+margin-left: 100px;
+margin-right: 100px;
+}
+
+
